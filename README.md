@@ -8,13 +8,11 @@ This project focuses on optimizing retail operations for Walmart Inc. through th
 * [About the Project]()
 * [Data Gathering]()
 * [File Description]()
-* [Licensing And Authors]()
+* [Team Members]()
 
 # Installation 
 The code requires:
-* `python 3 and above`
-* `pandas`
-* `sklearn`
+* `Excel` 
 * `powerbi desktop` for visualization purposes 
 
 # About the Project
@@ -32,9 +30,8 @@ Data was gathered from a Kaggle dataset that includes variables such as invoice 
 
 # File Description 
 The folder contains:
-* `a data folder` that contains the original datasetused for the analysis
-* `customer.ipynb` a jupyter notebook of the clustering model creation 
-* `customer_segment.pbix` the powerbi dashboard created- this should be opened with powerbi desktop
+* `Excel Workbook` that contains oroginal dataset, clean dataset etc
+* `R&i Dashboard` the powerbi dashboard created- this should be opened with powerbi desktop
 
 # Methodology
 - Data Collection: Gather sales transactions, customer demographics, and inventory levels.
@@ -48,4 +45,8 @@ The folder contains:
 - Customer Experience Enhancement Plan: Strategies for improving customer satisfaction and loyalty.
 - Performance Measurement Metrics: Establish KPIs to monitor and evaluate optimization efforts.
 
-# Authors
+# Team Members
+Deirdre Gouta Mmolotsa
+Loago Junior Rantao
+Letso Manyanda
+Reneilwe Keoagile
