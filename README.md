@@ -1,7 +1,7 @@
 # Optimizing-Retail-Operations-For-Walmart Inc. - Data-Analysis-Group-Research-Project
 This project focuses on optimizing retail operations for Walmart Inc. through the application of data analytics. By leveraging data-driven strategies, the project aims to enhance operational efficiency, improve customer experiences, and drive sales growth.
 
-![Alt text](img.png)
+![Alt text](https://github.com/Deirdre24/Optimizing-Retail-Operations-For-Walmart.Inc---Data-Analysis-Group-Research-Project/blob/main/R%26I%20Dashboard.png)
 
 # Table Of Contents
 * [Installation]()
