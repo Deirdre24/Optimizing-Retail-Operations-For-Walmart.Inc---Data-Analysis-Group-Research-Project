@@ -46,7 +46,7 @@ The folder contains:
 - Performance Measurement Metrics: Establish KPIs to monitor and evaluate optimization efforts.
 
 # Team Members
-Deirdre Gouta Mmolotsa
-Loago Junior Rantao
-Letso Manyanda
-Reneilwe Keoagile
+- Deirdre Gouta Mmolotsa
+- Loago Junior Rantao
+- Letso Manyanda
+- Reneilwe Keoagile
