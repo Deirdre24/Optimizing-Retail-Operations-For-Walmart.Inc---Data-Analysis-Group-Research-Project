@@ -1,1 +1,1 @@
-# Optimizing-Retail-Operations-For-Walmart.Inc---Data-Analysis-Group-Research-Project
+# Optimizing-Retail-Operations-For-Walmart Inc. - Data-Analysis-Group-Research-Project
